@@ -1,0 +1,14 @@
+{
+  "name": "bluebeam-plan-guide",
+  "version": "1.0.0",
+  "description": "Interactive Bluebeam plan finder, CAD pricing comparison, free training and license setup guide from IMAGINiT Technologies.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
